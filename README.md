@@ -11,3 +11,13 @@ Basic Arithmetic operations
 Programs practiced:
 VariablesDemo.java
 CalculationDemo.java
+
+Topics Learned:
+if statement
+if-else condition
+else-if ladder
+
+Programs Practiced:
+EvenOdd.java
+PositiveNegative.java
+PassFail.java
