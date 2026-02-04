@@ -21,3 +21,13 @@ Programs Practiced:
 EvenOdd.java
 PositiveNegative.java
 PassFail.java
+
+Topics Learned:
+for loop
+while loop
+loop based-logics
+
+Programs Practiced:
+Printing numbers from 1 to N
+Sum of first N numbers
+Multiplication table logic
